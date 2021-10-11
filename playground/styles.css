@@ -1,0 +1,58 @@
+html {
+  color: hsl(0deg 0% 10%);
+}
+
+body {
+  padding: 0px;
+  padding-top: 32px;
+  margin: 0;
+}
+
+.box {
+  border-radius: 0;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.box1 {
+  border: 20px groove forestgreen;
+}
+.box2 {
+  border: 20px ridge royalblue;
+}
+.box3 {
+  border: 20px double rebeccapurple;
+}
+.box4 {
+  border: 20px inset crimson;
+}
+.box5 {
+  border: 20px outset yellow;
+}
+.box6 {
+  border: 20px mixed forestgreen;
+}
+
+.max-width-card {
+  background: #222;
+  color: white;
+}
+
+.max-width-wrapper {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.card {
+  color: black;
+  margin: auto;
+  background-color: white;
+  padding: 32px;
+  border-radius: 8px;
+}
+
+p {
+  margin-bottom: 16px;
+}
