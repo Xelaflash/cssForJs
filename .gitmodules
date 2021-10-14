@@ -1,3 +1,6 @@
 [submodule "huckleberry"]
 	path = huckleberry
 	url = https://github.com/Xelaflash/huckleberry.git
+[submodule "character-creator"]
+	path = character-creator
+	url = https://github.com/css-for-js/character-creator.git
