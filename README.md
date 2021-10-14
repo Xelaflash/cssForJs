@@ -10,5 +10,8 @@
 Repo contains my playground for this course + all the workshops and exercises embed as a submodule.
 
 
+`git submodule add <url> repo name`
+
+
 Course followed in 2021
 
