@@ -1,0 +1,3 @@
+[submodule "huckleberry"]
+	path = huckleberry
+	url = https://github.com/Xelaflash/huckleberry.git
