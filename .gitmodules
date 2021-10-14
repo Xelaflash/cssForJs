@@ -4,3 +4,4 @@
 [submodule "character-creator"]
 	path = character-creator
 	url = https://github.com/Xelaflash/character-creator.git
+	branch = main
