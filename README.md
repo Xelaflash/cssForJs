@@ -5,16 +5,10 @@
   </a>
 </p>
 
-> Repo used for the CSS for JS Dev  course (🔥 course by the way) by Josh W Comeau [https://courses.joshwcomeau.com/css-for-js] 
+> Repo used for the [CSS for JS Dev course](https://courses.joshwcomeau.com/css-for-js/) (🔥 course by the way) by  [Josh W Comeau](https://www.joshwcomeau.com/)
 
-## Author
-
-👤 **AlexG**
+Repo contains my playground for this course + all the workshops and exercises embed as a submodule.
 
 
-## Show your support
+Course followed in 2021
 
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
