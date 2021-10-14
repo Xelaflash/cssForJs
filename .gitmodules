@@ -3,4 +3,4 @@
 	url = https://github.com/Xelaflash/huckleberry.git
 [submodule "character-creator"]
 	path = character-creator
-	url = https://github.com/css-for-js/character-creator.git
+	url = https://github.com/Xelaflash/character-creator.git
