@@ -5,3 +5,6 @@
 	path = character-creator
 	url = https://github.com/Xelaflash/character-creator.git
 	branch = main
+[submodule "react_sandbox"]
+	path = react_sandbox
+	url = git@github.com:Xelaflash/cssforjs_react-sandbox.git
