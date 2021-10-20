@@ -8,3 +8,6 @@
 [submodule "react_sandbox"]
 	path = react_sandbox
 	url = git@github.com:Xelaflash/cssforjs_react-sandbox.git
+[submodule "mini-component-library"]
+	path = mini-component-library
+	url = git@github.com:Xelaflash/mini-component-library.git
