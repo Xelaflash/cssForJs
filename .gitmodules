@@ -11,3 +11,6 @@
 [submodule "mini-component-library"]
 	path = mini-component-library
 	url = git@github.com:Xelaflash/mini-component-library.git
+[submodule "sole-and-ankle"]
+	path = sole-and-ankle
+	url = git@github.com:Xelaflash/sole-and-ankle.git
