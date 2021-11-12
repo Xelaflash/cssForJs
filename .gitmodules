@@ -14,3 +14,6 @@
 [submodule "sole-and-ankle"]
 	path = sole-and-ankle
 	url = git@github.com:Xelaflash/sole-and-ankle.git
+[submodule "scrollburglars"]
+	path = scrollburglars
+	url = https://github.com/css-for-js/scrollburglars.git
