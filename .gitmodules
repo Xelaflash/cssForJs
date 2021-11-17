@@ -17,3 +17,6 @@
 [submodule "scrollburglars"]
 	path = scrollburglars
 	url = https://github.com/css-for-js/scrollburglars.git
+[submodule "sole-and-ankle-revisited"]
+	path = sole-and-ankle-revisited
+	url = git@github.com:css-for-js/sole-and-ankle-revisited.git
