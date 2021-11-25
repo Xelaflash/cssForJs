@@ -14,9 +14,9 @@
 [submodule "sole-and-ankle"]
 	path = sole-and-ankle
 	url = git@github.com:Xelaflash/sole-and-ankle.git
-[submodule "scrollburglars"]
-	path = scrollburglars
-	url = https://github.com/css-for-js/scrollburglars.git
 [submodule "sole-and-ankle-revisited"]
 	path = sole-and-ankle-revisited
 	url = git@github.com:css-for-js/sole-and-ankle-revisited.git
+[submodule "scrollburglars"]
+	path = scrollburglars
+	url = https://github.com/Xelaflash/scrollburglars.git
