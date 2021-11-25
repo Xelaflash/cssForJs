@@ -20,3 +20,6 @@
 [submodule "sole-and-ankle-revisited"]
 	path = sole-and-ankle-revisited
 	url = git@github.com:Xelaflash/sole-and-ankle-revisited.git
+[submodule "unsprinkle"]
+	path = unsprinkle
+	url = git@github.com:Xelaflash/unsprinkle.git
