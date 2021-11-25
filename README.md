@@ -12,6 +12,10 @@ Repo contains my playground for this course + all the workshops and exercises em
 
 `git submodule add <url> repo name`
 
+Add a submodule
 
+`git submodule update --remote --merge`
+
+This will update the submodule to the latest remote commit. You will then need to add and commit the change so the gitlink in the parent repository is updated
 Course followed in 2021
 
