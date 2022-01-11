@@ -23,3 +23,6 @@
 [submodule "unsprinkle"]
 	path = unsprinkle
 	url = git@github.com:Xelaflash/unsprinkle.git
+[submodule "new-grid-times"]
+	path = new-grid-times
+	url = git@github.com:Xelaflash/new-grid-times.git
